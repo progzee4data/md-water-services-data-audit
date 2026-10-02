@@ -96,7 +96,7 @@ WHERE
     AND biological > 0;
 ```
 ### Task 9: Cleaning Description Strings and Updating Contaminated Survey Results
-**Objective:** Perform safe batch updates to strip invalid status prefixes from description strings and reclassify mislabeled records in accordance with safety standards.
+**Objective:** Perform safe batch updates of mislabeled records.
 ```sql
 -- Disable safe updates for this session
 SET SQL_SAFE_UPDATES = 0;
