@@ -1,4 +1,3 @@
-<img width="1920" height="1016" alt="2026-10-02_12-27-02" src="https://github.com/user-attachments/assets/2d079bad-c6e8-4101-81c9-df9c7898a623" />
 # Md-water-services-data-audit
 # Summary
 This repository contains the complete SQL data auditing, cleanup, and quality assurance for the Maji Ndogo water services database (md_water_services). The primary objective of this project is to audit qualitative survey records, resolve human data entry errors, align descriptive logs with tested biological metrics, and correct misclassified public water sources to support reliable public health reporting
