@@ -126,3 +126,14 @@ WHERE
 -- Re-enable safe updates
 SET SQL_SAFE_UPDATES = 1;
 ```
+### 🛠️ Tools & Technologies Used
+
+* **Database Management System:** MySQL Server 8.0 & MySQL Workbench
+* **Language & Syntax:** Structured Query Language (SQL — DQL & DML)
+* **Data Quality Techniques:** Data Auditing, Pattern Matching (`LIKE`), String Cleaning, Metric Thresholding (`biological > 0.01`), and Safe Updates Control (`SQL_SAFE_UPDATES`)
+
+---
+
+### 📌 Background & Context
+
+This project was completed as part of the ALX Africa Data Science Program to demonstrate practical relational database auditing, exploratory data analysis (DQL), record remediation (DML), and data quality control using MySQL Workbench.
